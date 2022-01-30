@@ -16,6 +16,30 @@ body {
 	text-decoration: none;
   }
 
+  p {
+	font-size: 40pt;
+	text-align: center;
+	margin-top: 2em;
+	color: #7e0064;
+  }
+
+  p.subline {
+	font-size: 15pt;
+	text-align: center;
+	color: #7e0064;
+	margin-left: 15em;
+	margin-right: 15em;
+  }
+
+  p.ndsubline {
+	font-size: 15pt;
+	text-align: justify;
+	color: #7e0064;
+	margin-left: 20em;
+	margin-right: 20em;
+  }
+
+
   .home {
 	filter: invert();
   }
