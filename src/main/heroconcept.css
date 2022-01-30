@@ -15,9 +15,13 @@ body {
 	color: #7e0064;
   }
 
-  .herostartimg {
+  .herostart {
+	  width: 10%;
+	  height: auto;
+  }
+
+  .herostartdiv {
 	  text-align: center;
-	  margin-top: 7em;
   }
 
   .letsstart {
