@@ -15,6 +15,13 @@ body {
 	color: #7e0064;
   }
 
+  .video {
+	text-align: center;
+	margin-top: 3em;
+	margin-left: 20em;
+	margin-right: 20em;
+  }
+
   .herostartimg {
 	  text-align: center;
 	  margin-top: 5em;

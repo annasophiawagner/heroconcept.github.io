@@ -15,6 +15,11 @@ body {
 	color: #7e0064;
   }
 
+  .intro {
+	  text-align: center;
+	  
+  }
+
   .herostart {
 	  width: 10%;
 	  height: auto;
@@ -27,11 +32,6 @@ body {
   .letsstart {
 	width:35%;
 	height: auto;
-  }
-
-  .video {
-	text-align: center;
-	margin-top: 3em;
   }
 
   .navbar {
